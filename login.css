@@ -1,0 +1,54 @@
+
+body{
+ background-color:#006A71;
+}
+.dem{
+	height:500px;
+	width:400px;
+	background-color:#48A6A7;
+	position:absolute;
+	left:600px;
+	top:100px;
+	border-radius:5%;
+	border:2px,solid,white;
+
+}
+h1{
+text-align:center;
+}
+.name{
+	font-size:18px;
+	padding-left:100px;
+}
+.password{
+	font-size:18px;
+	padding-left:100px;
+}
+.fpassword{
+	font-size:18px;
+	padding-left:100px;
+}
+button{
+	margin-left:60px;
+	margin-top:40px;
+	height:35px;
+	width:300px;
+	border-radius:30px;
+	font-size:20px;
+}
+button:hover{
+	background-color:#006A71;
+	color:white;
+}
+input{
+	border-radius:5px;
+	height:20px;	
+}
+.login{
+	font-size:20px;
+	margin-top:20px;
+	margin-left:100px;
+}
+a{
+	font-size:18px;
+}
